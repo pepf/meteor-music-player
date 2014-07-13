@@ -1,0 +1,6 @@
+[submodule "meteor-moment"]
+	path = meteor-moment
+	url = https://github.com/acreeger/meteor-moment.git
+[submodule "packages/moment"]
+	path = packages/moment
+	url = https://github.com/acreeger/meteor-moment.git
