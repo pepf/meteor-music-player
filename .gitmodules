@@ -4,3 +4,6 @@
 [submodule "packages/moment"]
 	path = packages/moment
 	url = https://github.com/acreeger/meteor-moment.git
+[submodule "packages/bootstrap3-less"]
+	path = packages/bootstrap3-less
+	url = https://github.com/simison/bootstrap3-less
